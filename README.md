@@ -3,11 +3,11 @@
 Default controls:
 
 ```
-# Press this to shoot the ball on net - this must be a buttton on your keyboard
+# Press this to shoot the ball on net - this must be a button on your keyboard
 target = 1
-# Press this to shoot the ball on not your net - this must be a buttton on your keyboard
+# Press this to shoot the ball on not your net - this must be a button on your keyboard
 antitarget = 2
-# Press this to cancel the shot - this must be a buttton on your keyboard
+# Press this to cancel the shot - this must be a button on your keyboard
 cancel = 3
 
 # Mouse buttons
