@@ -1,3 +1,3 @@
 pynput
 numpy
-virxerlu-clib
+VirxERLU-CLib>=1.12.0
